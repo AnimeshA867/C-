@@ -1,0 +1,10 @@
+Subject                         Marks
+-------------------------
+Mathematics                 89
+English                     78
+OOP                         95
+Stats                       45
+Physics                     98
+-------------------------
+Total: 405
+Percentage:81

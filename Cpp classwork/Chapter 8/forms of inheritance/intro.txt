@@ -1,0 +1,7 @@
+A class can inherit properties from one or more classes and from one or more levels. On the basis of this concept, there are five forms of inheritance.
+
+1) Single inheritance
+2) Multiple inheritance
+3) Hierarchical inheritance.
+4) Multilevel inheritance
+5) Hybrid Inheritance.
